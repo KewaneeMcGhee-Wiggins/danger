@@ -1,0 +1,12 @@
+h2{
+    text-align: center;
+    color: #333333;
+    margin:30px;
+}
+img{
+    margin:0 auto;
+    width:500px;
+    height:500px;
+    display:flex;
+    align-items: center;
+}
